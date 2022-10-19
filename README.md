@@ -2,7 +2,7 @@
 This repository is focused on where the company should invest their money in the app. or the website.
 
 
-I used the training sets to build an accurate model. Then used to the test set to report the accuracy of the model. I used the following algorithm:
+I used the training sets to build an accurate model,Then used to the test set to report the accuracy of the model, using the following algorithm:
 LinearRegression
 
 
